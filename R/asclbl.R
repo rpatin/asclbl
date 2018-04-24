@@ -18,11 +18,16 @@ cookies_text <- c("T’en as d’autres des questions comme ça ?",
 "J’ai le verre facile.",
 "Corinne s’écrit avec deux n.",
 "Allez on arrête tout et on se met tous tout nu.",
-"On croit que les rêves, c'est fait pour se réaliser. C'est ça, le problème des rêves : c'est que c'est fait pour être rêvé.",
+"On croit que les rêves, c'est fait pour se réaliser.
+C'est ça, le problème des rêves :
+c'est que c'est fait pour être rêvé.",
 "Tu connais pas Beckett ?!",
-"Tu sais la vie c'est plutôt comme le disait ta mère, ferme ta gueule et apporte moi une bière.",
-"Pour les enfants qui se lèvent à six heures du matin : la peine de mort !",
-"Je t'ai croisé sans vraiment m'y attendre, Et en même temps on avait rendez-vous",
+"Tu sais la vie c'est plutôt comme le disait ta mère,
+ferme ta gueule et apporte moi une bière.",
+"Pour les enfants qui se lèvent
+à six heures du matin : la peine de mort !",
+"Je t'ai croisé sans vraiment m'y attendre,
+Et en même temps on avait rendez-vous",
 "Mais dans le fond tu le sais bien
 Que ta vie c'est de la merde
 Que tout ce que tu fais ne sers à rien
@@ -38,7 +43,8 @@ On peut les brûler
 On peut les congeler
 Mais le meilleur moyen de les éviter
 C'est de s'en protéger.",
-"Mourir pour des idées, l’idée est excellente, moi j’ai failli mourir de ne l’avoir pas eu.",
+"Mourir pour des idées, l’idée est excellente,
+moi j’ai failli mourir de ne l’avoir pas eu.",
 "And again and again and again … and again and again and again !",
 "Minuit ! Chrétiens, c'est l'heure solennelle
 Où l'homme Dieu descendit jusqu'ànous,
@@ -70,7 +76,9 @@ Noël ! Noël ! chantons le Rédempteur !",
 "C’est dans la tête.",
 "Today is Meat-Day !",
 "As-tu pensé à soumettre à Journal of Windy Archipelago ?",
-"Vaut mieux sauver 7 tourteaux que 3 homards ! C’est le capitalisme qui dit qu’une vie de homard vaut plus qu’une vie de tourteau.",
+"Vaut mieux sauver 7 tourteaux que 3 homards !
+C’est le capitalisme qui dit qu’une vie de homard
+vaut plus qu’une vie de tourteau.",
 "Vous devriez visiter Anvers, rien que pour l’endroit",
 "Là, ça se passe bien.",
 "ça va bien se passer.",
