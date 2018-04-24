@@ -20,7 +20,7 @@ cookies <- function() {
                     "Allez on arrête tout et on se met tous tout nu.",
                     "On croit que les rêves, c'est fait pour se réaliser. C'est ça, le problème des rêves : c'est que c'est fait pour être rêvé.",
                     "Tu connais pas Beckett ?!",
-                    "Tu sais la vie c'est plutôt comme le disait ta mère, ferme ta gueule et apporte moi un bière.",
+                    "Tu sais la vie c'est plutôt comme le disait ta mère, ferme ta gueule et apporte moi une bière.",
                     "Pour les enfants qui se lèvent à six heures du matin : la peine de mort !",
                     "Je t'ai croisé sans vraiment m'y attendre, Et en même temps on avait rendez-vous",
                     "Mais dans le fond tu le sais bien
