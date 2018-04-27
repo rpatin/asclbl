@@ -92,7 +92,29 @@ vaut plus qu’une vie de tourteau.",
 Dieu vivant, Dieu très haut
 Tu es le Dieu d’amour!",
 "Yuka. Yuuuuuuuuka.",
-"Are you little monkey?")
+"Are you little monkey?",
+"Il était un petit navire
+Il était un petit navire
+Qui n'avait ja-ja-jamais navigué
+Qui n'avait ja-ja-jamais navigué
+Ohé, ohé…
+[15 couplets supplémentaires]",
+"La couette c’est buêt",
+"Ouais ouais",
+"Chaque fois qu'on passe devant ton bloc
+Dis moi pourquoi tu louches?
+Tu parleras moins avec un glock dans la bouche
+Glock dans la bouche
+Glock-glock-glock-glock dans la bouche",
+"En plus t'es sur messagerie depuis des mois, ouais ouais
+Messagerie depuis des mois, ouais ouais
+Me-me-me-meessagerie depuis des mois",
+"Tout le plaisir est pour moi quand ça défouraille sec
+Quelques fois la victoire est fatale au vainqueur de la bataille",
+"D’ailleurs unis comme l’otarie face au requin blanc",
+"Mes cicatrices me rappellent que mon passé n'est pas un rêve",
+"Les rancunes ne meurent jamais, elles sont juste endormies",
+"Meeeek")
 return(cat("### ",sample(cookies_text,1)," ###"))
 
 }
