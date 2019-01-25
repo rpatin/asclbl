@@ -114,7 +114,11 @@ Quelques fois la victoire est fatale au vainqueur de la bataille",
 "D’ailleurs unis comme l’otarie face au requin blanc",
 "Mes cicatrices me rappellent que mon passé n'est pas un rêve",
 "Les rancunes ne meurent jamais, elles sont juste endormies",
-"Meeeek")
+"Meeeek",
+"Déculotte ton code.",
+"Espérons que ça se passe bien.",
+"Henri vieillit... Pourtant, il lui reste tant de choses à faire !",
+"Youhou, on est arrivé·e·s à Budapest ! \n[Cinq minutes plus tard] Youhou, on est arrivé·e·s à Budapest ! \n[Encore cinq minutes plus tard] Youhou, on est arrivé·e·s à Budapest ! ")
 return(cat("### ",sample(cookies_text,1)," ###"))
 
 }
